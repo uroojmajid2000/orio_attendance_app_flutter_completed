@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309780514453",
+    "project_id": "orio-attendance",
+    "storage_bucket": "orio-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309780514453:android:2114a4bdfb276127a1bd9c",
+        "android_client_info": {
+          "package_name": "tech.orio.attendance.orio_attendance_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309780514453-coh3kq41qe9h5h3kvh44p1udbpul8e46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxhSEfL2PelZSidhPJq8upmXrXRHNon5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309780514453-coh3kq41qe9h5h3kvh44p1udbpul8e46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
